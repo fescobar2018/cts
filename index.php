@@ -4,5 +4,6 @@
  </head>
  <body>
  <?php echo '<p>Hola Mundo</p>'; ?>
+  <?php echo '<p>Estes es un laboratorio de Virtualizacion </p>' ?>
  </body>
 </html>
